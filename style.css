@@ -1,0 +1,19 @@
+.one
+{
+color:red;
+}
+@media screen and (max-width:800px)
+{
+	.one
+	{
+		color:yellow;	
+	}
+	
+}
+@media screen and (max-width:600px)
+{
+	.one
+	{
+		color:black;
+	}
+}
